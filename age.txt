@@ -1,0 +1,8 @@
+#CHECKING AGE
+age=int(input("enter your age:"))
+if age>=18:
+    print("YOU ARE ELIGIBLE TO VOTE")
+elif age==18:
+    print("YOU ARE ELIGIBLE TO VOTE")
+else:
+    print("YOU ARE NOT ELIGIBLE TO VOTE")

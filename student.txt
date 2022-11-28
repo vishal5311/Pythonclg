@@ -1,0 +1,10 @@
+#STUDENT 
+name=input("ENTER YOUR NAME:")
+rollno=int(input("ENTER ROLL_NO:"))
+m1=int(input("ENTER MARKS1:"))
+m2=int(input("ENTER MARKS2:"))
+m3=int(input("ENTER MARKS3:"))
+total=m1+m2+m3
+average=m1+m2+m3//3
+print("THE TOTAL IS:",total)
+print("THE AVERAGE IS:",average)

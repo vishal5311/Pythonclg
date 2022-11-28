@@ -1,0 +1,7 @@
+#ADD TWO NUMBERS
+x=int(input("enter first number"))
+y=int(input("enter second number"))
+sum=x+y
+print("entered first number is:",x)
+print("entered second number is:",y)
+print("The sum is:",sum)
